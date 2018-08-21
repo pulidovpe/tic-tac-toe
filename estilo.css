@@ -1,0 +1,14 @@
+div {
+	margin: 0 auto;
+	width: 30%;
+	height: 30%;
+	position: relative; 
+}
+
+td {
+	color: black;
+	width:1em;    
+	height:1em;
+	font-size: 2em;
+	text-align: center;
+}
