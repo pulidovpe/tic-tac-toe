@@ -1,14 +1,26 @@
+span, table, button {
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal;
+}
 div {
-	margin: 0 auto;
-	width: 30%;
 	height: 30%;
+	margin: 0 auto;
 	position: relative; 
+	text-align: center;
+	top: 5em;
+	width: 20em;
 }
 
 td {
 	color: black;
-	width:1em;    
-	height:1em;
+	width:1.5em;    
+	height:1.5em;
 	font-size: 2em;
 	text-align: center;
+}
+
+#turno {
+	color: blue;
+	font-size: 2em;
 }

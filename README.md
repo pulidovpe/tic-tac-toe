@@ -1,9 +1,12 @@
+
 # Tic-Tac-Toe
 > Clásico juego también conocido como "3 en línea" ó "3 en raya".
 > Consta de un un tablero con 9 posiciones en una matríz 3x3. En la cual se deben escribir por turnos, una "X" ó una "O" hasta haber completado 3 cuadros consecutivos con la misma letra; sea en forma horizontal, vertical o diagonal.
 
 ## Screenshots / Capturas de Pantalla
+![Juego 3 en raya](https://lh3.googleusercontent.com/Y89f1xCrznse4x6Zk16XnSsPN0wo15WHmZnmMziFA9gP2OSVDtADI39768LKehqHAwQAWG2XQlgH=s600 "Juego 3 en raya")
 
+![Juego tic tac toe](https://lh3.googleusercontent.com/6M4dp1s-H4FYxtE7o_JMVUpKVfaeg7qBAh0XJPmHrbF7N0AZlYnU7ZUztdvRn3yMe2rxnOqK5uwa=s600 "Juego tic tac toe")
 
 ## Tech-framework used / Tecnologías Usadas
 - HTML
